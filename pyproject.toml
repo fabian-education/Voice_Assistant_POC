@@ -1,0 +1,7 @@
+[project]
+name = "Voice_Assistant_POC"
+version = "0.1.0"
+description = "Voice Assistant Proof of Concept"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
